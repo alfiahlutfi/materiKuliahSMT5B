@@ -5,7 +5,7 @@
 1. Buka File App.js yang ada di folder projek ptmn2
 2. Import Library dan Component yang diperlukan
 3. Konfirmasi Bukti
-<img src="![alt text](image.png)" width="50%" >
+![alt text](image.png)
 
 
 ### Langkah 2: Merubah tampilan App.js ###
@@ -86,32 +86,19 @@
 2. Buat StyleSheet.create() untuk mengatur tampilan aplikasi
 3. Tambahkan style untuk Header, Profile, Social Media, Skill Card, Timeline Card, TextInput, Loading, dan Modal
 4. Konfirmasi Bukti
-//  PALET WARNA (konstanta warna terpusat)
 ![alt text](image-13.png)
-//  16. StyleSheet.create() → semua style
 ![alt text](image-14.png)
-  // ── HEADER BAR ────────────────────────────
-  ![alt text](image-15.png)
-  // ── SECTION PROFIL ─────────────────────────
-  ![alt text](image-16.png)
-  // ── SOSIAL MEDIA ───────────────────────────
-  ![alt text](image-17.png)
-  // ── PRESSABLE DOWNLOAD ─────────────────────
-  ![alt text](image-18.png)
-  // ── SECTION BOX (wrapper kartu) ────────────
-  ![alt text](image-19.png)
-  // ── SECTION LIST HEADER ────────────────────
-  ![alt text](image-20.png)
-  // ── SKILL CARD ─────────────────────────────
-  ![alt text](image-21.png)
-  // ── TIMELINE CARD ──────────────────────────
-  ![alt text](image-22.png)
-  // ── TEXT INPUT ─────────────────────────────
-  ![alt text](image-23.png)
-  // ── LOADING ROW ────────────────────────────
-  ![alt text](image-24.png)
-  // ── MODAL ──────────────────────────────────
-  ![alt text](image-25.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
 
   ## ✅ Hasil Akhir
   ![alt text](pm_hasilAkhir.gif)
