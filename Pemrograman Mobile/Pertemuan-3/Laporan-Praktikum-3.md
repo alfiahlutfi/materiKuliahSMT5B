@@ -114,4 +114,4 @@
   ![alt text](image-25.png)
 
   ## ✅ Hasil Akhir
-  <video controls src="animation.gif-1.mp4" title="Title"></video>
+  ![alt text](pm_hasilAkhir.gif)
